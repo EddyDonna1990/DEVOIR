@@ -1,0 +1,200 @@
+.left  {
+	margin-left: 0px;
+}
+
+.titr{
+	display: inline-block;
+  font-size: 20px;
+	margin: 130px;
+	padding: 0px;
+	color:cyan;
+	border-radius: 40%;
+	margin-left: 50px;
+	}
+
+body{
+	background-image: url(../img/color.jpg);
+}
+#img{
+	text-align: center;
+}
+.carousel-inner{
+	margin-top: 150px;
+	float: center;
+	height: 450px;
+	width: 400px;
+	float: left;
+	margin-left:5px;
+	padding-left: 0px;
+	padding: none;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.titr{
+	display: inline-block;
+ 	font-size: 20px;
+	padding: 0px;
+	color:cyan;
+	text-align: center;
+	border-radius: 40%;
+	margin-left: 40px;
+}
+.send{
+	float: center;
+}
+.titr:hover{
+	color: rgb(234,234,234);
+	font-style: italic;
+	animation-name: rubberBand;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+	border-radius: 20% px solid grey;
+	box-shadow: 0px 12px 12px 0px rgb(175,175,175);
+}
+.ind{
+	position: fixed;
+	color: white;
+	margin-left: 10px;
+}
+.sar{
+	margin-left: 350px;
+	border: 1px dashed grey;
+	text-decoration: none;
+	animation-name:zoomInDown;
+	animation-duration: 3s;
+	animation-iteration-count: 1;
+}
+.soa{
+
+	border: 2px solid black;
+	height:200px;
+	width: 250px;
+	animation-name:fadeInLeft;
+	animation-duration: 6s;
+	animation-iteration-count: 1;
+
+}
+
+h1{
+	text-align: center;
+	font-family: Algerian;
+}
+div{
+	margin-left: 100px;
+	color: #B2EBF2;
+}
+p{
+	text-align: center;
+	color: #E0F7FA;
+}
+div a{
+	margin-left: 50px;
+}
+h3{
+	color: #00E5FF;
+	text-align: center;
+	font-family: Constantia;
+}
+.imag{
+	margin-top: 250px;
+	margin-left:50px;
+	width: 180px;
+	height: 120px;
+}
+.newspaper {
+    column-count: 5;
+    margin-left: 20px;
+}
+h2{
+  text-align: center;
+  color: cyan;
+}
+
+h3{
+  color: #00B8D4;
+}
+.a{
+  margin-left: 20px;
+}
+.a h3{
+  text-align: center;
+}
+.a img{
+  margin-left: 35px;
+}
+h5{
+  color: black;
+  text-align: center;
+}
+.btn{
+  color: #26A69A;
+  margin-top: 150px;
+  margin-left: 650px;
+}
+.tete h2{
+  color: #BBDEFB;
+  animation-name: zoomInUp;
+  animation-duration:5s;
+  animation-iteration-count:1;
+}
+.image{
+	width: 200px;
+	height: 250px;
+}
+.toto{
+	color:#00E5FF;
+	text-align: center;
+}
+
+.to{
+	margin-right: 100px;
+}
+
+.touc{
+	margin-left: 100px;
+
+}
+
+h4{
+	text-align: center;
+}
+
+.ww{
+	color: #00E5FF;
+	width: 500px;
+	height: 40px;
+}
+
+#a{
+	color: #00E5FF;
+	height: 200px;
+	width: 500px;
+}
+.ret{
+	color: cyan;
+}
+.mig{
+	width: 300px;
+	height: 250px;
+	border-radius: 60%;
+	display: inline;
+	margin-top: 100px;
+}
+.map{
+	color: rgb(51,204,255);
+}
+.newspapers{
+	column-count: 2;
+	column-gap: 40px;
+	column-rule: 1px solid lightblue;
+}
+
+
+
+
+
